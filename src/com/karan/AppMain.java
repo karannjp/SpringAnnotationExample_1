@@ -10,7 +10,7 @@ public class AppMain {
       //  Student s1=con.getBean("id1",Student.class );
        // CertificateStudent c=con.getBean("certificateStudent",CertificateStudent.class);
       //  c.setCertificatec("Oscar certificate");
-      // s.setName("karan");
+      // s.setName("karan");○
         //s.display();
        //s.setCertificate(c);
         System.out.println(s.getName());
